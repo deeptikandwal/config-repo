@@ -6,8 +6,6 @@ spring:
     name: order-service
 
   datasource:
-    url: spring:
-  datasource:
     url: jdbc:mysql://mysql-container:3306/orders_db
     username: root
     password: Siyaram05@
